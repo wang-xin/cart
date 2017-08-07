@@ -1,0 +1,27 @@
+{
+    "name": "king/cart",
+    "description": "购物车类",
+    "require": {
+        "php": ">=5.4.0",
+        "topthink/think": "^5.0"
+    },
+    "autoload": {
+        "files": [],
+        "psr-4": {
+            "king\\cart\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangxin-king",
+            "email": "wangxin.king.314@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
